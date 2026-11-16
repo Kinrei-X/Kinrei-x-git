@@ -36,3 +36,5 @@ Welcome to the repository! Before we start building, everyone needs to complete 
 1 - This pull request is from **Muntasir** — *Add yours below*
 
 2 - This pull request is from Nipun
+
+3 - This pull request is from Jayed
