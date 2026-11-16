@@ -6,14 +6,7 @@ Welcome to the repository! Before we start building, everyone needs to complete 
 
 ### 📋 What You Need to Do
 
-1. **Clone the Repository**
-   Clone this repository onto your local machine.
-
-2. **Create Your Own Branch**
-   Create and switch to a new branch named after yourself *(do not push directly to `main`)*.
-
-3. **Add Yourself to the Team Roster**
-   Edit this `README.md` file, scroll down to the **Team Roster** section below, and add a new bullet point with your name and role following the existing format.
+1.
 
 4. **Commit & Push Your Branch**
    Commit your changes to your personal branch and push that branch to GitHub.
@@ -34,5 +27,12 @@ Welcome to the repository! Before we start building, everyone needs to complete 
 ## 👥 Team Roster
 
 1 - This pull request is from **Muntasir** — *Add yours below*
+This pull request is from Fawjia Nasrin — CSE Student
+2 - This pull request is from Nipun **Clone the Repository**
+   Clone this repository onto your local machine.
 
-2 - This pull request is from Nipun
+2. **Create Your Own Branch**
+   Create and switch to a new branch named after yourself *(do not push directly to `main`)*.
+
+3. **Add Yourself to the Team Roster**
+   Edit this `README.md` file, scroll down to the **Team Roster** section below, and add a new bullet point with your name and role following the existing format.
